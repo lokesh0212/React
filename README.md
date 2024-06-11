@@ -18,7 +18,6 @@ Examples: React, jQuery
 Q ) What is Framework?
 Framework provides a basic foundation or structure for a
 website or an application.
-Inception! ( Namaste-React ) 3
 Examples: Angular
 
 Q ) Similarities between Library and Framework?
